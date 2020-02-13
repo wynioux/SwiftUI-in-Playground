@@ -14,7 +14,7 @@
 - [About](#about)
 - [Download](#download)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgement)
+- [Tips](#tips)
 
 ## About <a name = "about"></a>
 
@@ -44,6 +44,6 @@ PlaygroundPage.current.setLiveView(ContentView())
 
 ```
 
-## Acknowledgements <a name = "acknowledgement"></a>
+## Tips <a name = "tips"></a>
 
  - At this time support for SwiftUI isn’t ideal: <mark>NavigationView</mark> doesn’t work well because it tries to run as a split view controller, and there is no support for the instant preview canvas that we get with Xcode – you need to keep tapping “Run My Code”.
